@@ -1,2 +1,3 @@
 # hyperblog
-un blog fenomenal para el curso de 
+un blog fenomenal para el curso de platzi
+
